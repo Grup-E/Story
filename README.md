@@ -1,5 +1,3 @@
 # story
-Story 
-Ataberk Logoyu hazırladı.
-
-Bunu çağrı yazdı.
+Story Sistemdeki hataları düzeltiliyor.
+[Çağrı ve Ataberk]
